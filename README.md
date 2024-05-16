@@ -1,2 +1,4 @@
 # aprendizajeHtml
-subir las etiquetas con las clases realizadas.
+
+## en primer clase
+dentro de esta pagina se conoce los apartados de textos en linea y en bloque
